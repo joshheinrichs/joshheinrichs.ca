@@ -20,7 +20,7 @@ div.card {
     margin: 40px;
     padding: 20px;
     max-width: 400px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+    bordeR: rgba(0,0,0,0.2) solid 1px;
 }
 div.header {
     margin-bottom: 1em;
